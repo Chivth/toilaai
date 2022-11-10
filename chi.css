@@ -1,0 +1,44 @@
+h1 {
+  margin-top: 20%;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: deeppink;
+  text-transform: uppercase;
+}
+.carefor {
+  display: flex;
+  margin-left: 40%;
+  border-radius: 50%;
+  flex-direction: column;
+  width: 20%;
+}
+button {
+  background-color: rgb(195, 161, 227);
+  font-size: 16px;
+  width: 100%;
+}
+.cancer {
+  color: crimson;
+  font-size: 30px;
+  text-align: center;
+  display: none;
+}
+img {
+  text-align: center;
+  padding-left: 30%;
+  height: 40%;
+  width: 40%;
+}
+p {
+  text-align: center;
+}
+.edit {
+  margin-top: 5%;
+}
+#accept {
+  color: crimson;
+  font-size: 30px;
+  text-align: center;
+  display: none;
+}
